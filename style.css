@@ -1,0 +1,84 @@
+body{
+  Background-color: #343a40;
+  padding: 10%;
+  color: #ced4da;
+  font-family: Times New Roman, Garamond, Serif;
+}
+.name{
+  Background-color: #2a6f97;
+  text-align: center;
+  Padding: .5px;
+  color: #d8f3dc;
+  border-radius: 15px 50px 30px;
+}
+img{
+   max-width:100px;
+   height:auto;
+   position: relative;
+  float: right;
+  padding-left: 20px;
+  display: inline-block;
+  border-radius: 10px 40px 10px;
+  border:
+}
+.address{
+  text-align: center;
+  padding-bottom: 0px;
+  display: block; 
+  font-weight: normal;
+}
+#phone{
+  margin-top: 0px;
+}
+h2{
+  border-top: 1mm ridge rgb(42, 111, 151, .6);
+  border-bottom: 1mm ridge rgb(42, 111, 151, .6);
+  color: #d8f3dc;
+  text-transform: uppercase;
+  padding: 0px;
+}
+h3{
+  font-weight: 900;
+  color: #d8f3dc;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+h4{
+  padding-top: 0px;
+  padding-bottom: 2px;
+  margin-bottom: 0px;
+  display: inline;
+  display: inline-block;
+}
+.job{
+  margin-top: 8px;
+  font-weight: bold;
+  font-size: 15px
+}
+.location{
+  margin-top:8px;
+  font-weight: normal;
+  padding-left: 3px
+}
+h5{
+  padding-top: 0px;
+  padding-bottom: 2px;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  font-style: italic;
+  display: inline-block;
+  float: right;
+}
+.school{
+  padding-top:0px;
+  margin-top:0px;
+}
+.awards{
+  margin-top: 0px;
+}
+ul {
+  display: inline-block;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+  
