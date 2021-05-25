@@ -10,12 +10,12 @@ body{
 .name{
   Background-color: #2a6f97;
   text-align: center;
-  Padding: 5px;
+  Padding: .5px;
   color: #d8f3dc;
   border-radius: 15px 50px 30px;
 }
 img{
-   max-width:110px;
+   max-width:120px;
    height:auto;
    position: relative;
   float: right;
@@ -27,6 +27,7 @@ img{
 .address{
   text-align: center;
   padding-bottom: 0px;
+  margin-top: 20px;
   display: block; 
   font-weight: normal;
 }
