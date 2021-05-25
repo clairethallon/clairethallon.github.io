@@ -1,6 +1,6 @@
 body{
   Background-color: #343a40;
-  padding: 10%;
+  padding: 20%;
   color: #ced4da;
   font-family: Times New Roman, Garamond, Serif;
 }
@@ -79,5 +79,6 @@ h5{
 ul {
   margin-bottom: 0px;
   margin-top: 10px;
+  text-align: left;
 }
   
